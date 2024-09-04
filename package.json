@@ -1,5 +1,5 @@
 {
-  "name": "myclient",
+  "name": "qr-order-client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
